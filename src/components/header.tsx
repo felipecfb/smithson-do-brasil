@@ -21,6 +21,7 @@ export function Header() {
     // { title: 'Home', to: '#introduction' },
     { title: t('menu.about'), to: '#aboutUs' },
     { title: t('menu.services'), to: '#services' },
+    { title: t('menu.products'), to: '#products' },
     { title: t('menu.contact'), to: '#contact' },
   ]
 

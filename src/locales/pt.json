@@ -8,6 +8,187 @@
     "languages": {
       "en": "Inglês",
       "pt": "Português"
+    },
+    "introduction": {
+      "badge": "Novidades",
+      "badgeText": "Confira nosso desenvolvimento de sites",
+      "headline": "Assessoria em Informática e Tecnologia",
+      "subheading": "Porque se algo não está funcionando como deveria, alguém terá uma bela dor de cabeça...",
+      "learnMore": "Saiba o que fazemos",
+      "contactUs": "Fale com a gente"
+    },
+    "aboutUs": {
+      "title": "Quem somos nós?",
+      "para1": "A empresa que você chama quando está com problemas ou quando quer evitar eles...",
+      "para2": "Precisando de computadores novos?\nSeu sistema precisa de um update?\nSeu site não tem propósito?",
+      "para3": "Fale conosco.",
+      "subheading": "Somos experts em manter as coisas funcionando como deveriam."
+    },
+    "numbers": {
+      "title": "Nossos números",
+      "description": "Premiada por diversas instituições como X e Y e representante direta de empresas como Microsoft e Intelbras, veja nossa história em cifras e entenda porque a Smithson é a escolha certa para assessorar sua organização.",
+      "years": "Anos de Experiência",
+      "clients": "Clientes",
+      "solutions": "Soluções e Serviços"
+    },
+    "dna": {
+      "title": "Nossa essência",
+      "description": "A empresa que você chama quando está com problemas - ou quando quer evitar eles... na Smithson, acreditamos que a tecnologia deve ser uma aliada que simplifica a vida e impulsiona negócios, não o contrário.",
+      "items": [
+        {
+          "title": "Entrega de Valor para Empresas e Pessoas",
+          "description": "Na Smithson, nosso foco é entregar soluções que fazem a diferença. Trabalhamos para garantir que nossos clientes recebam o melhor!"
+        },
+        {
+          "title": "Evolução do Negócio e Impacto Funcional",
+          "description": "Nossa missão é acompanhar as tendências e aplicar inovações que geram o crescimento e melhoram a funcionalidade da operação."
+        },
+        {
+          "title": "Expertise Técnica e Excelência Operacional",
+          "description": "Nossa equipe é composta por especialistas que dominam suas áreas e estão sempre prontos para enfrentar qualquer desafio tecnológico!"
+        },
+        {
+          "title": "Parceria e Confiança Duradoura",
+          "description": "Valorizamos nossas relações de longo prazo construídas. A confiança que estabelecemos é fruto de um trabalho consistente e qualitativo!"
+        }
+      ]
+    },
+    "services": {
+      "title": "Alguns de nossos serviços...",
+      "moreTitle": "Tem mais!",
+      "cta": "Fale conosco",
+      "accordion": [
+        {
+          "title": "Assistência Técnica",
+          "items": ["Reparo de Dispositivos", "Manutenção Preventiva", "Suporte Remoto"]
+        },
+        {
+          "title": "Hardware",
+          "items": [
+            "Montagem e configuração de computadores",
+            "Venda e instalação de periféricos (impressoras, scanners, etc.)",
+            "Upgrade de componentes (memória RAM, disco rígido, placa gráfica)"
+          ]
+        },
+        {
+          "title": "Sites e Aplicações",
+          "items": ["Projeção e Desenvolvimento", "Plataformas Personalizadas", "SEO e Otimização de Performance"]
+        },
+        {
+          "title": "Sistemas",
+          "items": [
+            "Implementação de sistemas de gestão empresarial e customer relationship management",
+            "Desenvolvimento e evolução de sistemas de rede",
+            "Integração de sistemas para automação de processos internos"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "title": "Sistemas de Monitoramento",
+          "description": "Serviço realizado por profissionais capacitados, com tecnologia e segurança de ponta. Instalação estratégica para garantir a segurança do local."
+        },
+        {
+          "title": "Desenvolvimento de Sites",
+          "description": "Equipe qualificada pronta para entregar projetos de qualidade, incluindo sites institucionais, e-commerce, blogs e landing pages."
+        },
+        {
+          "title": "Reparo em Hardware",
+          "description": "Especialistas prontos para reparar computadores pessoais e empresariais. Soluções rápidas e confiáveis para o funcionamento ideal dos dispositivos."
+        },
+        {
+          "title": "Microsoft 365",
+          "description": "Soluções de consultoria e implementação de Microsoft 365 para sua empresa, incluindo Aplicações Empresariais, Plataformas de Comunicação e Infraestrutura."
+        },
+        {
+          "title": "Tráfego Pago",
+          "description": "Maximize a visibilidade online da sua empresa com o tráfego pago. Direcionamos o público certo para o seu site, aumentando a exposição e impulsionando as conversões."
+        },
+        {
+          "title": "Venda de Computadores",
+          "description": "Ampla seleção de computadores de qualidade, incluindo modelos empresariais e pessoais, para impulsionar a produtividade e segurança do seu negócio."
+        }
+      ]
+    },
+    "partners": {
+      "title": "Nossos parceiros",
+      "description": "Confirme com nossos parceiros de estrada...",
+      "ariaLabel": "Empresas que confiam no nosso trabalho",
+      "aboutTitle": "Empresas que confiam no nosso trabalho"
+    },
+    "footer": {
+      "heroTitle": "Tudo em um só lugar!",
+      "heroSubtitle": "Quem diria que era possível, não?",
+      "contactTitle": "Fale Conosco",
+      "contactSubtitle": "Precisando de suporte técnico ou gostaria de discutir seu próximo projeto?",
+      "contactSubtitle2": "Estamos aqui.",
+      "menuInstitutional": "Institucional",
+      "menuAboutUs": "A Smithson",
+      "menuCareers": "Carreiras",
+      "menuServices": "Serviços e soluções",
+      "menuServicesItems": [
+        "Desenvolvimento e criação de sites",
+        "Portaria e interfonia",
+        "Travas eletrônicas",
+        "Sistemas de monitoramento (CFTV)",
+        "Tráfego pago",
+        "Microsoft 365"
+      ],
+      "menuContact": "Fale conosco",
+      "privacy": "Política de Privacidade e Segurança"
+    },
+    "form": {
+      "title": "A um formulário de distância...",
+      "subtitle": "Seus concorrentes saíram na frente enquanto você esperou, mas não por muito tempo.",
+      "name": "Seu nome",
+      "email": "Seu e-mail",
+      "phone": "Seu telefone",
+      "message": "Sua mensagem",
+      "submit": "Enviar mensagem",
+      "success": "Mensagem enviada com sucesso.",
+      "nameRequired": "O nome é obrigatório.",
+      "emailInvalid": "Insira um e-mail válido.",
+      "phoneInvalid": "Insira um telefone válido.",
+      "messageRequired": "A mensagem é obrigatória."
+    },
+    "contact": {
+      "badge": "Fale conosco",
+      "title": "Entre em contato",
+      "subtitle": "Há mais de uma década, estamos comprometidos em ser uma ponte entre as pessoas e a tecnologia.",
+      "infoTitle": "Não espere para entrar em contato",
+      "testimonial": "A smithson mudou a forma como enxergamos a tecnologia dentro de nossas operações. Dos pontos mais simples aos mais complexos, ela consegue extrair o melhor!",
+      "testimonialAuthor": "Marcelo Bastos",
+      "testimonialRole": "Diretor e Fundador"
+    },
+    "servicesPage": {
+      "title": "Nossos serviços"
+    },
+    "aboutPage": {
+      "journeyTitle": "Nossa jornada",
+      "partnersTitle": "Empresas que confiam no nosso trabalho",
+      "timeline": [
+        {
+          "year": 1994,
+          "title": "Início da Jornada",
+          "description": "Foi criado a Smithson do Brasil Informática LTDA."
+        },
+        {
+          "year": 1997,
+          "title": "Expansão e Consolidação",
+          "description": "Foi criado a linha de microcomputadores SMT Computer com o que há de melhor em periféricos."
+        },
+        {
+          "year": 2002,
+          "title": "Reconhecimento da Marca",
+          "description": "Alcançamos o título de Integradora Microsoft OEM."
+        }
+      ],
+      "cards": [
+        { "number": "25", "title": "anos de experiência" },
+        { "number": "30", "title": "soluções" },
+        { "number": "35", "title": "projetos" },
+        { "number": "15", "title": "empresas clientes" }
+      ]
     }
   }
 }

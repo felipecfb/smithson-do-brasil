@@ -15,7 +15,7 @@ export function DnaAnimate() {
         stroke="#CCFBF1"
         strokeWidth="2.67041"
         strokeDasharray="0,0,95.95239023862483,62.41797108950018"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -36,7 +36,7 @@ export function DnaAnimate() {
         stroke="#CCFBF1"
         strokeWidth="2.67041"
         strokeDasharray="0,0,185.05217180219523,141.60297956499227"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -57,7 +57,7 @@ export function DnaAnimate() {
         stroke="#CCFBF1"
         strokeWidth="2.67041"
         strokeDasharray="0,0,392.40020958452794,269.6956766459408"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -78,7 +78,7 @@ export function DnaAnimate() {
         stroke="#CCFBF1"
         strokeWidth="2.67041"
         strokeDasharray="0,0,655.5649129353202,362.48995767014856"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -99,7 +99,7 @@ export function DnaAnimate() {
         stroke="#CCFBF1"
         strokeWidth="2.67041"
         strokeDasharray="0,0,801.7692484954378,531.5933003326872"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"

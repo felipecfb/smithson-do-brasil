@@ -24,7 +24,6 @@ export function Form(props: ComponentProps<'form'>) {
   type ContactFormSchema = z.infer<typeof contactFormSchema>
 
   const {
-    register,
     handleSubmit,
     formState: { isSubmitting, errors },
     reset,
@@ -59,28 +58,24 @@ export function Form(props: ComponentProps<'form'>) {
         id="name"
         type="text"
         placeholder={t('form.name')}
-        register={register}
         error={errors.name?.message || ''}
       />
       <Input
         id="email"
         type="email"
         placeholder={t('form.email')}
-        register={register}
         error={errors.email?.message || ''}
       />
       <Input
         id="tel"
         type="tel"
         placeholder={t('form.phone')}
-        register={register}
         error={errors.tel?.message || ''}
       />
       <Input
         id="message"
         placeholder={t('form.message')}
         asTextarea
-        register={register}
         error={errors.message?.message || ''}
       />
 

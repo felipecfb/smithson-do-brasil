@@ -6,6 +6,7 @@ import { Dna } from './components/dna'
 import { Introduction } from './components/introduction'
 import { Numbers } from './components/numbers'
 import { Partners } from './components/partners'
+import { Products } from './components/products'
 import { Services } from './components/services'
 
 export function Home() {

@@ -13,6 +13,7 @@ export function Header() {
   const temporaryNavLinks = [
     { title: t('menu.about'), to: '#aboutUs' },
     { title: t('menu.services'), to: '#services' },
+    { title: t('menu.products'), to: '#products' },
     { title: t('menu.contact'), to: '#contact' },
   ]
 

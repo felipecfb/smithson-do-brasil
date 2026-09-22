@@ -13,7 +13,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,401.36767578125"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -30,7 +30,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,401.3680419921875"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -47,7 +47,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,502.845703125"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -64,7 +64,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,401.36737060546875"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -81,7 +81,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,401.3682556152344"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -98,7 +98,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,379.5248718261719"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -115,7 +115,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,249.65298461914062"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -132,7 +132,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,141.04598999023438"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -149,7 +149,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,142.29299926757812"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -166,7 +166,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,183.15170288085938"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -183,7 +183,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,271.5460205078125"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -200,7 +200,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,133.09156799316406"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -217,7 +217,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,435.4198303222656"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -234,7 +234,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,145.99899291992188"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -251,7 +251,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,142.29296875"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -268,7 +268,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,93.69699096679688"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -285,7 +285,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,93.69699096679688"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -302,7 +302,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,125.85797119140625"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -319,7 +319,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,186.69497680664062"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -336,7 +336,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,72.24298095703125"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -353,7 +353,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,176.89697265625"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -370,7 +370,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,131.4749755859375"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -387,7 +387,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,171.2823486328125"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -404,7 +404,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,142.29400634765625"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -421,7 +421,7 @@ export function AboutUsAnimate() {
         stroke="transparent"
         strokeWidth="3.74457"
         strokeDasharray="0,0,0,0,0,93.69699096679688"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"

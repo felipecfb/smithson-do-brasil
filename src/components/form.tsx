@@ -1,6 +1,7 @@
 import { zodResolver } from '@hookform/resolvers/zod'
 import { ComponentProps } from 'react'
 import { useForm } from 'react-hook-form'
+import { useTranslation } from 'react-i18next'
 import { toast } from 'sonner'
 import { twMerge } from 'tailwind-merge'
 import { z } from 'zod'
@@ -10,18 +11,19 @@ import { Button } from '@/components/ui/button'
 import { Input } from './input'
 import { Loading } from './loading'
 
-export const contactFormSchema = z.object({
-  name: z.string().min(1, 'O nome é obrigatório.'),
-  email: z.string().email('Insira um e-mail válido.'),
-  tel: z.string().min(10, 'Insira um telefone válido.'),
-  message: z.string().min(1, 'A mensagem é obrigatória.'),
-})
-
-export type ContactFormSchema = z.infer<typeof contactFormSchema>
-
 export function Form(props: ComponentProps<'form'>) {
+  const { t } = useTranslation()
+
+  const contactFormSchema = z.object({
+    name: z.string().min(1, t('form.nameRequired')),
+    email: z.string().email(t('form.emailInvalid')),
+    tel: z.string().min(10, t('form.phoneInvalid')),
+    message: z.string().min(1, t('form.messageRequired')),
+  })
+
+  type ContactFormSchema = z.infer<typeof contactFormSchema>
+
   const {
-    register,
     handleSubmit,
     formState: { isSubmitting, errors },
     reset,
@@ -30,11 +32,10 @@ export function Form(props: ComponentProps<'form'>) {
   })
 
   function handleContactUs(_data: ContactFormSchema) {
-    toast.success('Mensagem enviada com sucesso.', {
+    toast.success(t('form.success'), {
       duration: 5000,
       icon: '📬',
     })
-
     reset()
   }
 
@@ -42,60 +43,49 @@ export function Form(props: ComponentProps<'form'>) {
     <form
       onSubmit={handleSubmit(handleContactUs)}
       className={twMerge(
-        'flex w-full flex-col items-center gap-4 rounded-lg bg-zinc-50 p-8',
+        'flex w-full flex-col items-center gap-4 rounded-lg bg-background p-8',
         props.className,
       )}
     >
-      <h3 className="font-bold text-xl text-zinc-950 lg:text-2xl">
-        A um formulário de distância...
+      <h3 className="font-bold text-xl text-foreground lg:text-2xl">
+        {t('form.title')}
       </h3>
-      <p className="text-center font-medium text-base text-zinc-950 lg:text-lg">
-        Seus concorrentes saíram na frente enquanto você
-        <br /> esperou, mas não por muito tempo.
+      <p className="text-center font-medium text-base text-foreground lg:text-lg">
+        {t('form.subtitle')}
       </p>
 
       <Input
         id="name"
         type="text"
-        placeholder="Seu nome"
-        register={register}
+        placeholder={t('form.name')}
         error={errors.name?.message || ''}
       />
       <Input
         id="email"
         type="email"
-        placeholder="Seu e-mail"
-        register={register}
+        placeholder={t('form.email')}
         error={errors.email?.message || ''}
       />
       <Input
         id="tel"
         type="tel"
-        placeholder="Whatsapp ou telefone"
-        register={register}
+        placeholder={t('form.phone')}
         error={errors.tel?.message || ''}
       />
       <Input
         id="message"
-        placeholder="Como podemos te ajudar? Não economize em detalhes!"
+        placeholder={t('form.message')}
         asTextarea
-        register={register}
         error={errors.message?.message || ''}
       />
 
       <Button
         disabled={isSubmitting}
-        className="w-full bg-zinc-950 text-lg text-zinc-50 hover:bg-zinc-700 hover:brightness-90"
+        className="w-full bg-primary text-lg text-primary-foreground hover:opacity-80 hover:brightness-90"
         type="submit"
       >
-        {isSubmitting ? <Loading /> : 'Entrar em contato'}
+        {isSubmitting ? <Loading /> : t('form.submit')}
       </Button>
-
-      <p className="text-center font-medium text-sm text-zinc-950">
-        Preencha o formulário para que possamos
-        <br /> entrar em <strong>contato. </strong>
-        <span className="underline">Estamos prontos para ajudar!</span>
-      </p>
     </form>
   )
 }

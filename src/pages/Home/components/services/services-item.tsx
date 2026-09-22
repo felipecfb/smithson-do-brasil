@@ -11,8 +11,8 @@ export function ServicesItem({ icon, title, description }: ServicesItemProps) {
 
   return (
     <div className="flex items-start gap-4">
-      <div className="rounded-3xl bg-zinc-950 p-4 dark:bg-zinc-50">
-        <LucideIcon className="h-6 w-6 text-zinc-50 dark:text-zinc-950 lg:h-12 lg:w-12" />
+      <div className="rounded-2xl bg-primary/10 p-3">
+        <LucideIcon className="h-6 w-6 text-primary lg:h-8 lg:w-8" />
       </div>
       <div>
         <h3 className="font-bold text-xl text-foreground lg:text-2xl">

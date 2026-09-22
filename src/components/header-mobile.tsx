@@ -24,10 +24,10 @@ export function HeaderMobile({ navLinks }: NavLinks) {
   }
 
   return (
-    <header className="sticky top-0 z-50 flex items-center justify-between bg-zinc-50 px-4 py-3 dark:bg-zinc-950 lg:hidden">
+    <header className="sticky top-0 z-50 flex items-center justify-between bg-background px-4 py-3 lg:hidden">
       <Drawer direction="left" open={open} onOpenChange={setOpen}>
         <DrawerTrigger className="bg-transparent" onClick={() => setOpen(true)}>
-          <Menu className="text-zinc-950 dark:text-zinc-50" />
+          <Menu className="text-foreground dark:text-foreground" />
         </DrawerTrigger>
         <DrawerContent className="flex h-full w-[50%] flex-col">
           <DrawerHeader className="flex w-full items-center justify-start gap-2 p-4">
@@ -39,7 +39,7 @@ export function HeaderMobile({ navLinks }: NavLinks) {
             </a>
           </DrawerHeader>
 
-          <Separator className="w-full bg-zinc-950 dark:bg-zinc-50" />
+          <Separator className="w-full bg-border" />
 
           <nav className="flex flex-col space-y-4 p-4 lg:space-y-6">
             {navLinks.map((link, index) => (

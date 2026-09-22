@@ -7,7 +7,7 @@ import { ReviewItem } from './review-item'
 export function Review() {
   return (
     <section className="space-y-9 bg-[#2364AA] py-16">
-      <h2 className="text-center text-3xl font-bold text-zinc-50 lg:text-5xl">
+      <h2 className="text-center text-3xl font-bold text-background lg:text-5xl">
         Confirme com quem já está conosco
       </h2>
 

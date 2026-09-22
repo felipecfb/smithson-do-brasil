@@ -38,7 +38,7 @@ export function FooterAnimation() {
       <g mask="url(#mask0_226_460)">
         <path
           d="M622.725 525.901L664.567 484.602"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,45.46181166683725,13.329043740877596"
         >
@@ -56,7 +56,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M307.507 814.995L417.973 713.421"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,104.28981608349368,45.77686482470945"
         >
@@ -74,7 +74,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M486.596 700.585L565.261 610.731"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,84.8335387129695,34.589747725018775"
         >
@@ -92,7 +92,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M411.279 815.553L483.248 725.699"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,85.14457004671205,29.97830898160826"
         >
@@ -110,7 +110,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M472.647 768.673L671.262 496.32"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,265.88194183738,71.1997537192606"
         >
@@ -128,7 +128,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M531.23 724.583L605.989 612.405"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,99.36407358678638,35.44250600305737"
         >
@@ -146,7 +146,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M503.89 790.997L613.798 615.195"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,162.18634267652558,45.1445594230838"
         >
@@ -164,7 +164,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M570.281 708.398L606.545 646.449"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,52.42939270782787,19.35332976531666"
         >
@@ -182,7 +182,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M617.148 642.543L638.907 603.477"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,29.24021108903737,15.47676889143138"
         >
@@ -200,7 +200,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M626.631 574.455L661.221 524.227"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,48.54076569672119,12.44550139312256"
         >
@@ -218,7 +218,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M652.296 575.571L675.17 537.062"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,32.27993697293991,12.51023178926712"
         >
@@ -236,7 +236,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M564.703 752.488L621.052 647.008"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,79.57476893195694,40.0130072521251"
         >
@@ -254,7 +254,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M585.905 746.349L658.433 591.197"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,122.84842739095733,48.418738746737986"
         >
@@ -272,7 +272,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M610.451 717.327L670.148 584.501"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,111.42008705463111,34.20440940532983"
         >
@@ -290,7 +290,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M614.916 743.559L657.873 630.822"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,87.18360679503635,33.46021492127224"
         >
@@ -308,7 +308,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M628.864 730.722L679.634 592.314"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,107.47242963635314,39.953321096068734"
         >
@@ -326,7 +326,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M607.104 812.763L650.063 681.609"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,99.77939904332965,38.23090063928754"
         >
@@ -344,7 +344,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M651.737 747.465L668.475 673.238"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,51.84764835931342,24.243187211975645"
         >
@@ -362,7 +362,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M665.686 729.048L674.612 688.865"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,28.10920514225064,13.053228482016937"
         >
@@ -380,7 +380,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M678.517 672.121L701.949 586.174"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,60.051411295134656,29.03245863894737"
         >
@@ -398,7 +398,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M697.485 659.844L713.106 576.687"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,62.987726912623984,21.623738541477582"
         >
@@ -416,7 +416,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M717.012 563.852L723.15 532.04"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,21.572333336035967,10.826416969139814"
         >
@@ -434,7 +434,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M734.865 544.317L737.656 514.18"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,21.10736282374388,9.158624572496354"
         >
@@ -452,7 +452,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M702.507 706.724L725.382 558.828"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,107.93314287807343,41.7214286551297"
         >
@@ -470,7 +470,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M660.104 814.437L682.421 715.654"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,79.92308982714086,21.34948555127711"
         >
@@ -488,7 +488,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M710.875 793.787L724.823 663.75"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,99.01867920021812,31.76421874900064"
         >
@@ -506,7 +506,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M745.467 711.747L748.256 575.57"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,100.31472914000693,35.890837266243075"
         >
@@ -524,7 +524,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M766.108 728.489L758.297 605.708"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,92.1277858538496,30.901427097810558"
         >
@@ -542,7 +542,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M795.678 814.437L773.361 641.984"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,133.79226184973146,40.09874461999511"
         >
@@ -560,7 +560,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M790.1 654.821L776.71 567.758"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.3572445373472,19.72938723755514"
         >
@@ -578,7 +578,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M795.121 614.637L786.752 576.129"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,27.255813469084465,12.151104102937017"
         >
@@ -596,7 +596,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M833.056 737.978L802.372 604.593"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,96.71959427224614,40.14921065939448"
         >
@@ -614,7 +614,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M828.593 811.647L811.298 722.909"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,70.60160009992151,19.806068967461304"
         >
@@ -632,7 +632,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M894.426 814.437L819.666 606.267"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,163.07675140842622,58.11050445094877"
         >
@@ -650,7 +650,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M824.13 653.705L802.372 576.687"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,53.05795908232648,26.97442769745868"
         >
@@ -668,7 +668,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M896.658 730.164L834.73 595.104"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,109.68283510241649,38.898066997192885"
         >
@@ -686,7 +686,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M893.31 701.701L836.404 577.804"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,94.18298619154946,42.15758998032554"
         >
@@ -704,7 +704,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M848.119 585.058L821.34 531.48"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,40.18512512122571,19.71242736900867"
         >
@@ -722,7 +722,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M871.552 588.966L834.73 530.924"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,49.36477471066568,19.371927254666357"
         >
@@ -740,7 +740,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M971.974 811.647L872.667 639.194"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,154.2050228825364,44.79728119461203"
         >
@@ -758,7 +758,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M884.384 639.753L867.648 606.825"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,24.038052564917894,12.898978227318434"
         >
@@ -776,7 +776,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M932.364 702.26L892.194 633.056"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,53.36053853939979,26.65710825015099"
         >
@@ -794,7 +794,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M999.871 814.996L948.543 729.048"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,69.51728928571336,30.59073531145461"
         >
@@ -812,7 +812,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1000.99 780.951L942.965 686.633"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,85.1031177532071,25.634316633999934"
         >
@@ -830,7 +830,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1042.27 813.322L913.396 625.8"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,146.44282239049124,81.09404284388374"
         >
@@ -848,7 +848,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1067.38 789.881L912.281 601.802"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,158.9654086743749,84.81605494867196"
         >
@@ -866,7 +866,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1116.47 773.697L913.952 567.758"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,202.16790697256005,86.6649177344712"
         >
@@ -884,7 +884,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1159.99 755.837L927.9 554.921"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,209.95611820377542,97.0177892669277"
         >
@@ -902,7 +902,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1068.49 652.031L883.827 502.461"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,174.92650776164575,62.71101970417457"
         >
@@ -920,7 +920,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1166.68 701.701L1057.33 623.567"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,88.0975928468911,46.29869316385109"
         >
@@ -938,7 +938,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1114.8 632.497L873.786 476.788"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,187.78732504976983,99.15005287991767"
         >
@@ -956,7 +956,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M953.566 550.457L894.427 505.809"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,51.1555459557531,22.944795841121902"
         >
@@ -974,7 +974,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1056.22 567.758L870.996 465.626"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,145.12209706802182,66.3935584495563"
         >
@@ -992,7 +992,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1100.29 606.824L1050.64 576.687"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,43.06536558515714,15.015280929735438"
         >
@@ -1010,7 +1010,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1409.94 710.072L951.892 495.763"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,398.5202300589577,107.1834747750267"
         >
@@ -1028,7 +1028,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1042.83 507.482L913.952 459.486"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,104.67207615625051,32.852963516601044"
         >
@@ -1046,7 +1046,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1104.76 530.365L1060.68 513.064"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,35.209801751004456,12.14382450021625"
         >
@@ -1064,7 +1064,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1188.44 540.41L911.163 449.44"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,189.7771081726041,102.0413732727084"
         >
@@ -1082,7 +1082,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1030 472.323L872.111 431.023"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,123.81476665696808,39.386389959242855"
         >
@@ -1100,7 +1100,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1112.01 479.02L931.805 439.395"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,136.88499869238103,47.625133143556475"
         >
@@ -1118,7 +1118,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1272.69 488.507L896.658 424.885"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,297.2511640020427,84.12496514834793"
         >
@@ -1136,7 +1136,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1069.05 407.583L902.795 404.235"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,124.59284975196108,41.69592283104672"
         >
@@ -1154,7 +1154,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1345.21 399.212H939.617"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,312.99756314415447,92.59539339881425"
         >
@@ -1172,7 +1172,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1127.63 342.844L891.08 379.12"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,166.71573989556452,72.59962875677924"
         >
@@ -1190,7 +1190,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1466.28 261.361L1059.57 338.937"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,291.24837981337885,122.79403962021489"
         >
@@ -1208,7 +1208,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1112.01 289.266L1007.68 319.403"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,79.70703515329815,28.888507754416693"
         >
@@ -1226,7 +1226,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1030.56 321.636L859.836 366.841"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,117.72575537672651,58.881712274640684"
         >
@@ -1244,7 +1244,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1231.96 190.483L937.386 316.613"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,222.72372291095337,97.71753075115599"
         >
@@ -1262,7 +1262,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1084.11 284.801C1082.33 286.14 975.88 322.938 922.878 341.168"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,110.3151484256726,60.49384205284302"
         >
@@ -1280,7 +1280,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1031.67 243.502L911.163 306.567"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,100.10032947223513,35.91119091350706"
         >
@@ -1298,7 +1298,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1089.69 173.739L924.553 285.36"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,135.66283982797887,63.65966993764613"
         >
@@ -1316,7 +1316,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1125.4 126.302L892.753 294.847"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,196.01313224290456,91.27080330397045"
         >
@@ -1334,7 +1334,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1021.63 162.02L931.805 240.711"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,81.495712097178,37.92290515135715"
         >
@@ -1352,7 +1352,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1038.92 130.208L886.616 273.639"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,134.65887288085662,74.55146952636994"
         >
@@ -1370,7 +1370,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1002.66 149.184L858.721 291.499"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,135.96923339616262,66.44614135969677"
         >
@@ -1388,7 +1388,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M950.217 170.949L878.805 251.315"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,76.39534620395335,31.114495714991968"
         >
@@ -1406,7 +1406,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M993.175 93.9316L890.52 228.434"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,111.77831191303655,57.42258530376033"
         >
@@ -1424,7 +1424,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M889.407 162.578L835.29 255.222"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,75.8723008108007,31.419637970937586"
         >
@@ -1442,7 +1442,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M912.836 74.3984L846.445 223.411"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,118.60034406664424,44.53309404370732"
         >
@@ -1460,7 +1460,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M888.849 37.5635L829.711 211.132"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,135.98079517790308,47.38585826447975"
         >
@@ -1478,7 +1478,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M812.416 128.534L795.678 207.226"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,63.79186451497041,16.660558580732708"
         >
@@ -1496,7 +1496,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M797.349 155.322L790.097 201.645"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,31.624914972021752,15.262311132714576"
         >
@@ -1514,7 +1514,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M791.771 161.462L780.056 227.876"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,51.98665907894622,15.452649087557687"
         >
@@ -1532,7 +1532,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M771.687 93.374L763.876 225.644"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,102.91895394954253,29.58147329655123"
         >
@@ -1550,7 +1550,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M758.296 128.534L754.949 240.712"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,75.78407585786364,36.44385230375746"
         >
@@ -1568,7 +1568,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M751.604 199.412V231.224"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,24.43835202667039,7.373644433290545"
         >
@@ -1586,7 +1586,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M724.824 62.6787L740.445 220.621"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,109.21658618553533,49.49631969825373"
         >
@@ -1604,7 +1604,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M721.476 123.511L733.75 217.83"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.35940239548933,26.75487067579974"
         >
@@ -1622,7 +1622,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M663.453 30.3086L704.18 211.69"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,136.8523940958488,49.045173653174636"
         >
@@ -1640,7 +1640,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M656.759 85.002L696.371 226.201"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,100.973912770741,45.67624897242306"
         >
@@ -1658,7 +1658,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M588.694 44.2607L677.402 217.271"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,130.94103038034237,63.48549855032169"
         >
@@ -1676,7 +1676,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M622.168 144.16L664.569 217.83"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,57.69888176194931,27.301759107191312"
         >
@@ -1694,7 +1694,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M628.864 169.833L653.412 213.923"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,35.36554175178291,15.097634975512015"
         >
@@ -1712,7 +1712,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M552.428 59.3301L658.43 249.084"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,153.6341303349241,63.72034659378686"
         >
@@ -1730,7 +1730,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M571.957 145.835L661.221 269.175"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,101.60056374317034,50.65192343944685"
         >
@@ -1748,7 +1748,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M499.986 77.1885L660.663 277.546"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,197.93596964433038,58.89127034590398"
         >
@@ -1766,7 +1766,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M575.863 222.295L654.528 297.079"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,80.75185633830894,27.787709701730126"
         >
@@ -1784,7 +1784,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M367.76 87.2344L581.439 256.338"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,197.15603499007213,75.34121842789664"
         >
@@ -1802,7 +1802,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M411.279 145.276L637.231 309.916"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,181.3958346522037,98.17640045521817"
         >
@@ -1820,7 +1820,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M426.343 169.833L561.914 259.687"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,130.07924398181942,32.56528726818058"
         >
@@ -1838,7 +1838,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M502.216 227.317L563.586 270.29"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,52.55803441932252,22.36162805626342"
         >
@@ -1856,7 +1856,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M218.8 53.749L549.081 268.617"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,260.59060247155753,133.43198053625497"
         >
@@ -1874,7 +1874,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M77.0913 53.1904L569.166 306.009"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,388.2374605486467,164.98470742010332"
         >
@@ -1892,7 +1892,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M245.02 168.718L558.006 308.242"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,220.88736579169156,121.78908684502719"
         >
@@ -1910,7 +1910,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M137.904 167.043L300.255 230.108"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,113.82810274495978,60.34146817789179"
         >
@@ -1928,7 +1928,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M223.822 223.969L325.361 256.338"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.63206453039243,37.94147520349429"
         >
@@ -1946,7 +1946,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M363.297 265.269L435.267 288.709"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,53.50957342812263,22.18134454062737"
         >
@@ -1964,7 +1964,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M467.628 298.754L594.272 341.728"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,97.34941933875393,36.38712240929294"
         >
@@ -1982,7 +1982,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M301.929 278.662L584.788 352.331"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,205.32265211863432,86.97233079152191"
         >
@@ -2000,7 +2000,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M433.036 322.752L585.345 356.797"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,124.06594244455299,32.0016082146267"
         >
@@ -2018,7 +2018,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M351.581 336.704L560.238 366.842"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,164.44712685862106,46.37515402516801"
         >
@@ -2036,7 +2036,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M98.293 300.986L314.203 330.565"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,164.24913129855568,53.677565478788075"
         >
@@ -2054,7 +2054,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M311.97 347.866L420.205 358.471"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,85.3436403162805,23.409647952762466"
         >
@@ -2072,7 +2072,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M457.027 361.261L614.357 380.236"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,112.10899664921294,46.361111383013615"
         >
@@ -2090,7 +2090,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M169.703 381.353L588.692 391.956"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,273.7206184108081,145.4025200169263"
         >
@@ -2108,7 +2108,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M126.49 447.207L379.78 426.558"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,186.52798715793844,67.60230764186625"
         >
@@ -2126,7 +2126,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M424.669 420.419L521.186 413.164"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,73.53904907233235,23.250204162530935"
         >
@@ -2144,7 +2144,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M489.945 424.326L557.451 416.513"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,45.83767529066073,22.118928713245523"
         >
@@ -2162,7 +2162,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M458.701 435.488L596.505 416.513"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,107.69717896166489,31.407084343999173"
         >
@@ -2180,7 +2180,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M142.367 478.462L393.984 442.186"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,164.58759346698915,89.63094290996399"
         >
@@ -2198,7 +2198,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M46.8286 512.367L434.574 450.418"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,291.1421786732714,101.52075467633796"
         >
@@ -2216,7 +2216,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M83.3843 533.457L618.418 436.906"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,419.9767991800276,123.69885999965985"
         >
@@ -2234,7 +2234,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M255.621 527.016L564.144 442.743"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,234.354700323884,85.47083068197539"
         >
@@ -2252,7 +2252,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M505.005 467.857L608.776 437.72"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,82.15994460071009,25.898641519895378"
         >
@@ -2270,7 +2270,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M40.8286 580.593L214.896 535.945"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,129.06317977249975,50.639090735312735"
         >
@@ -2288,7 +2288,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M190.905 559.386L433.594 490.182"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,194.79685131312817,57.56626209019215"
         >
@@ -2306,7 +2306,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M65.7134 617.894L427.795 501.809"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,274.0263549334412,106.20884404116815"
         >
@@ -2324,7 +2324,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M87.1543 642.379L564.723 465.462"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,359.74777405863136,149.53753477925923"
         >
@@ -2342,7 +2342,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M408.49 544.317L576.977 471.206"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,120.33234824267846,63.333362206540286"
         >
@@ -2360,7 +2360,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M450.889 535.945L588.693 470.648"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,101.87094452827019,50.62048003227669"
         >
@@ -2378,7 +2378,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M386.173 601.802L617.704 472.322"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,206.91361838232248,58.36296242822439"
         >
@@ -2396,7 +2396,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M94.9443 686.633L344.887 573.339"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,179.2872448998206,95.13374509041378"
         >
@@ -2414,7 +2414,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M77.7134 742.673L388.467 581.383"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,248.23995588066876,101.8775367951125"
         >
@@ -2432,7 +2432,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M60.9121 781.509L357.719 616.87"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,252.4648382086817,86.94687443780266"
         >
@@ -2450,7 +2450,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M73.1865 814.437L328.708 658.727"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,236.22248058209607,63.00463123431019"
         >
@@ -2468,7 +2468,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M568.607 813.321L594.829 755.837"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,43.651274682174346,19.531029700149876"
         >
@@ -2486,7 +2486,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M530.111 811.089L552.428 767.558"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,36.8818968583546,12.036350364545788"
         >
@@ -2504,7 +2504,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M429.688 97.2803L659.546 311.033"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,206.43395272097473,107.45285758175963"
         >
@@ -2522,7 +2522,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M914.51 817.786L849.235 653.146"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,130.52524668029557,46.58252614685287"
         >
@@ -2540,7 +2540,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1468.51 365.726L976.998 389.166"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,369.7532407569064,122.31737691887486"
         >
@@ -2558,7 +2558,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M0.20459 174.182L377.908 287.475"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,257.8438607021245,136.484874649438"
         >
@@ -2576,7 +2576,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M97.0933 232.619L384.415 302.939"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,232.86021590323801,62.941511391683854"
         >
@@ -2594,7 +2594,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M96.3652 325.287L296.096 346.495"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,150.44947253498626,50.40413464274813"
         >
@@ -2612,7 +2612,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M25.7646 342.286L529.555 377.447"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,335.2076026213707,169.8082970368324"
         >
@@ -2630,7 +2630,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M26.3232 419.303L211.548 414.28"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,118.87027599672113,66.42263171812262"
         >
@@ -2648,7 +2648,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M38.5952 733.513L356.602 581.71"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,258.8004383300269,93.58069570317623"
         >
@@ -2666,7 +2666,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M440.288 649.24L600.966 519.761"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,147.41996606873073,58.934663447870825"
         >
@@ -2684,7 +2684,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M188.116 814.996L628.304 487.392"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,394.53075556388404,154.18579717049099"
         >
@@ -2702,7 +2702,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M412.953 604.033L600.968 488.507"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,171.84016841603253,48.831325114240904"
         >
@@ -2720,7 +2720,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M223.263 814.437L379.477 695.004"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,155.5272281703255,41.11216086776044"
         >
@@ -2738,7 +2738,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M452.563 681.609L657.315 488.507"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,208.63100649245706,72.81485532394919"
         >
@@ -2756,7 +2756,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M421.88 28.6338L540.156 156.996"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,122.88042763639103,51.664890967124585"
         >
@@ -2774,7 +2774,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M835.844 24.1699L822.455 96.7226"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,54.106454109454695,19.671316886639055"
         >
@@ -2792,7 +2792,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M985.367 42.0283L951.892 87.7925"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,41.61011225779886,15.090296677748013"
         >
@@ -2810,7 +2810,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M97.1777 14.124L274.592 121.279"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,147.09281351652868,60.170370077221335"
         >
@@ -2828,7 +2828,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M745.467 13.0078V101.187"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,61.60530097805149,26.57389824069851"
         >
@@ -2846,7 +2846,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M306.951 7.42676L454.239 139.138"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,128.38925960321345,69.20024845342719"
         >
@@ -2864,7 +2864,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M873.786 -2.61914L826.922 154.764"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,121.66318603858606,42.54915527000769"
         >
@@ -2882,7 +2882,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1207.41 -7.08398L1063.47 114.582"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,135.65728560480014,52.813798989926426"
         >
@@ -2900,7 +2900,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1089.14 -14.8975L1018.84 59.8878"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,75.25729222406915,27.382516430716013"
         >
@@ -2918,7 +2918,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M195.368 -1.50293L333.728 91.1415"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,118.49122106410024,48.02148950718882"
         >
@@ -2936,7 +2936,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M492.174 7.42676L553.544 106.768"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,90.81571393719382,25.953107779114774"
         >
@@ -2954,7 +2954,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M29.1128 87.793L219.918 173.741"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,137.58891512015376,71.68049405953374"
         >
@@ -2972,7 +2972,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M540.157 -5.96777L602.642 117.93"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,95.37770785060734,43.384819615212976"
         >
@@ -2990,7 +2990,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M600.41 -1.50293L633.884 71.0499"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,61.023103246524556,18.87946938531138"
         >
@@ -3008,7 +3008,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M804.604 -14.8975L792.331 106.768"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,81.85337959923248,40.42957175574798"
         >
@@ -3026,7 +3026,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M305.274 790.438L485.478 634.171"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,183.60161176993842,54.920605026936585"
         >
@@ -3044,7 +3044,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M387.847 790.439L617.147 539.852"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,247.97332091276155,91.69171814973846"
         >
@@ -3062,7 +3062,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M922.881 597.337L861.51 527.574"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,70.13115424753475,22.78425102590275"
         >
@@ -3080,7 +3080,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1058.45 749.698L950.773 628.032"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,108.08323363309353,54.38812561983616"
         >
@@ -3098,7 +3098,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1069.61 702.816L959.144 597.895"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,104.38405581061515,47.967994970634855"
         >
@@ -3116,7 +3116,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1118.15 647.565L880.479 486.833"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,204.1290358548031,82.7895737643375"
         >
@@ -3134,7 +3134,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1033.9 566.642L909.489 491.856"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,94.95799451101426,50.2007121540248"
         >
@@ -3152,7 +3152,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1232.52 605.15L941.847 479.02"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,246.24488161949475,70.61406613441149"
         >
@@ -3170,7 +3170,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1152.74 435.488L930.69 415.954"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,164.49484310373464,58.41270389333568"
         >
@@ -3188,7 +3188,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1289.42 348.425L954.681 380.794"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,238.80243699698462,97.49797804207786"
         >
@@ -3206,7 +3206,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1055.66 323.868L913.396 359.029"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,98.04004185719742,48.50466639475571"
         >
@@ -3224,7 +3224,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1095.83 263.593L999.87 302.102"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.4858437690979,34.912692913031016"
         >
@@ -3242,7 +3242,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M942.964 323.311L877.13 348.982"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,53.13338168574627,17.52858273075763"
         >
@@ -3260,7 +3260,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1236.99 149.741L975.324 283.127"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,204.4689219409893,89.23319597893259"
         >
@@ -3278,7 +3278,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1106.99 187.691L916.185 298.753"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,170.41914994330656,50.355203084037186"
         >
@@ -3296,7 +3296,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1057.34 159.787L951.333 243.502"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,91.0041426708058,44.07241067392076"
         >
@@ -3314,7 +3314,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M1072.96 51.5156L882.152 264.151"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,196.25920163063833,89.4355615529554"
         >
@@ -3332,7 +3332,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M939.616 145.276L865.414 253.548"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,101.77927388790889,29.479118446075482"
         >
@@ -3350,7 +3350,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M937.387 115.697L845.891 259.128"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,121.05387679710972,49.07541092261684"
         >
@@ -3368,7 +3368,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M862.069 153.09L826.362 240.153"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.81602441360069,25.284744629368067"
         >
@@ -3386,7 +3386,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M840.867 145.276L825.804 198.296"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,39.61191396816239,15.506272982521203"
         >
@@ -3404,7 +3404,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M785.635 132.998L773.361 223.968"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,65.44114107643486,26.353147558819046"
         >
@@ -3422,7 +3422,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M742.118 154.207L746.582 221.737"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,46.4002921079764,21.277091314875168"
         >
@@ -3440,7 +3440,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M689.673 34.2148L725.937 232.898"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,129.75151164267282,72.21406452920216"
         >
@@ -3458,7 +3458,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M656.2 146.394L701.948 260.245"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,85.2016400364518,37.49688443864584"
         >
@@ -3476,7 +3476,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M507.795 135.231L658.43 294.848"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,175.2195519667675,44.25363834084968"
         >
@@ -3494,7 +3494,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M511.144 258.013L594.83 304.893"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,62.52543712496313,33.39683460355249"
         >
@@ -3512,7 +3512,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M366.645 256.338L616.588 344.517"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,203.2566766298959,61.78491882908847"
         >
@@ -3530,7 +3530,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M492.174 317.17L575.86 341.727"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,69.64163739018096,17.572969848588574"
         >
@@ -3548,7 +3548,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M272.916 414.281L584.227 404.234"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,225.1606536710741,86.31242982501965"
         >
@@ -3566,7 +3566,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M252.832 595.105L464.837 509.716"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,158.7155457663475,69.83947742701189"
         >
@@ -3584,7 +3584,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M512.817 520.319L616.031 464.509"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,89.20584416262436,28.130764724094394"
         >
@@ -3602,7 +3602,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M35.8062 259.129L525.091 351.216"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,394.55253074256404,103.32259132774846"
         >
@@ -3620,7 +3620,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M130.092 816.669L309.738 691.654"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,151.78270249250417,67.0812806617927"
         >
@@ -3638,7 +3638,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M367.76 654.82L634.998 473.438"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,253.90843346837931,69.07078406091755"
         >
@@ -3656,7 +3656,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M536.808 586.732L604.314 524.783"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,71.92979066874418,19.693027324419884"
         >
@@ -3674,7 +3674,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M679.633 497.994L734.308 418.744"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,62.06826898194107,34.212141784660496"
         >
@@ -3692,7 +3692,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M701.949 511.948L724.824 458.929"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,42.019691902587525,15.723544639160519"
         >
@@ -3710,7 +3710,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M725.939 509.716L731.519 483.484"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,19.69319481912867,7.12570624288305"
         >
@@ -3728,7 +3728,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M730.961 506.926L741.561 447.767"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,42.75862819635703,17.34250705754922"
         >
@@ -3746,7 +3746,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M758.856 544.318L756.625 472.881"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,54.11917233129755,17.352637055909486"
         >
@@ -3764,7 +3764,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M751.045 532.04L752.162 444.418"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,63.80080497465312,23.828292010210166"
         >
@@ -3782,7 +3782,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M621.052 599.011L719.803 444.418"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,120.03456706669081,63.40683918330919"
         >
@@ -3800,7 +3800,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M609.895 583.384L705.297 455.579"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,124.51114817724863,34.97441700829825"
         >
@@ -3818,7 +3818,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M647.275 513.622L711.992 439.953"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,77.01406361394189,21.044133407542493"
         >
@@ -3836,7 +3836,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M668.475 480.694L700.834 447.767"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,34.37821697882539,11.7877109081375"
         >
@@ -3854,7 +3854,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M591.483 524.226L723.15 418.188"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,127.05262873409947,42.00439336062709"
         >
@@ -3872,7 +3872,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M620.495 477.345L649.506 459.486"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,24.031150822574535,10.036159510677418"
         >
@@ -3890,7 +3890,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M620.495 465.067L703.623 419.861"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,64.91389593251245,29.710859926862558"
         >
@@ -3908,7 +3908,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M517.84 486.833L704.739 412.605"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,147.99603131410115,53.1035170257426"
         >
@@ -3926,7 +3926,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M593.716 447.766L710.877 408.141"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,80.48775271475269,43.19265194833324"
         >
@@ -3944,7 +3944,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M555.22 441.628L711.992 404.235"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,124.09248370117888,37.077331362297684"
         >
@@ -3962,7 +3962,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M569.726 413.722L691.349 402.002"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,91.22762524467463,30.958745604934755"
         >
@@ -3980,7 +3980,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M527.324 399.212L715.896 395.863"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,137.87375979888586,50.72800106537195"
         >
@@ -3998,7 +3998,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M629.979 380.236L691.906 388.05"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,44.487083229012924,17.93095800023512"
         >
@@ -4016,7 +4016,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M614.358 354.563L692.466 377.446"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,64.10121029121962,17.289803807901475"
         >
@@ -4034,7 +4034,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M605.431 326.659L699.16 370.749"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,67.21297464770387,36.36811818676878"
         >
@@ -4052,7 +4052,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M631.653 322.193L704.181 365.726"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,58.32220302056127,26.26761021186061"
         >
@@ -4070,7 +4070,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M597.062 291.499C597.955 292.392 645.414 323.868 669.033 339.496"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,67.90779058700744,18.601677491605837"
         >
@@ -4088,7 +4088,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M573.631 253.548L688.002 345.076"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,96.46093279770245,50.0249223048366"
         >
@@ -4106,7 +4106,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M656.201 313.265L675.728 330.007"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,18.751436294678353,6.970128951903679"
         >
@@ -4124,7 +4124,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M670.707 304.335L711.434 350.656"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,45.06256319762909,16.6166817974881"
         >
@@ -4142,7 +4142,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M655.642 273.64L692.465 319.962"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,38.83158403471436,20.343243540969233"
         >
@@ -4160,7 +4160,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M626.074 215.039L725.381 358.471"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,126.37634435666884,48.07887109743272"
         >
@@ -4178,7 +4178,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M680.748 242.386L734.865 360.702"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,89.11518389954551,40.98987286314979"
         >
@@ -4196,7 +4196,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M717.013 269.733L735.982 347.867"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,56.15739184550293,24.246248901567384"
         >
@@ -4214,7 +4214,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M728.171 261.92L739.33 335.03"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,57.99512099947514,15.961574557165482"
         >
@@ -4232,7 +4232,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M735.424 279.221L747.698 374.098"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,75.17088830142444,20.49672949642713"
         >
@@ -4250,7 +4250,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M747.698 306.566V324.984"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,14.615590003480094,3.8024092640980323"
         >
@@ -4268,7 +4268,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M757.74 308.8L756.066 329.45"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,13.847779914693316,6.869985893412153"
         >
@@ -4286,7 +4286,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M762.203 312.148L754.951 374.655"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,48.44842467345725,14.477844857792755"
         >
@@ -4304,7 +4304,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M768.34 311.032L763.877 336.704"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,17.743120150123268,8.313930554832787"
         >
@@ -4322,7 +4322,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M785.078 297.638L764.994 359.587"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,47.99110812145207,17.132205782356525"
         >
@@ -4340,7 +4340,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M796.793 293.731L776.709 338.937"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,33.73154692581323,15.735143137663337"
         >
@@ -4358,7 +4358,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M819.668 260.245L772.246 356.796"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,78.51377674956733,29.054559737249082"
         >
@@ -4376,7 +4376,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M815.762 294.848L799.026 322.194"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,22.952243236862504,9.108616443313279"
         >
@@ -4394,7 +4394,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M827.479 296.521L765.551 377.446"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,69.38606026585818,32.51552817408322"
         >
@@ -4412,7 +4412,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M857.606 279.221L810.741 330.008"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,46.40626318687011,22.69977776771973"
         >
@@ -4430,7 +4430,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M846.448 307.684L780.614 368.516"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,69.76949563964706,19.866689052735744"
         >
@@ -4448,7 +4448,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M869.321 303.22L819.668 342.844"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,50.57273769916427,12.952664369927525"
         >
@@ -4466,7 +4466,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M866.532 326.659L831.942 346.75"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,26.055210711207714,13.94621598556963"
         >
@@ -4484,7 +4484,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M844.774 345.076L807.952 365.167"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,26.925322203985207,15.02113470519448"
         >
@@ -4502,7 +4502,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M878.249 390.281L794.562 393.63"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,55.02477107627647,28.729226726457902"
         >
@@ -4520,7 +4520,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M854.259 398.653H820.226"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,26.394873268160648,7.63808571621435"
         >
@@ -4538,7 +4538,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M913.396 420.977L786.751 401.443"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,94.24405243736699,33.898601981578324"
         >
@@ -4556,7 +4556,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M860.953 426.001L797.909 409.257"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,51.50099108252766,13.728668951652025"
         >
@@ -4574,7 +4574,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M870.438 435.488L817.994 417.071"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,42.515218336744965,13.068552415208158"
         >
@@ -4592,7 +4592,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M885.501 447.766L799.584 414.28"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,68.12760442871891,24.084332521964683"
         >
@@ -4610,7 +4610,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M882.711 478.463L808.51 433.256"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,64.32442013166988,22.563206516279333"
         >
@@ -4628,7 +4628,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M876.574 495.763L814.647 447.208"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,52.536699168122475,26.155996449553307"
         >
@@ -4646,7 +4646,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M894.985 533.155L792.889 435.488"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,104.03073553393914,37.25777764965461"
         >
@@ -4664,7 +4664,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M890.522 578.92L788.425 444.418"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,115.7948037382801,53.067790866212086"
         >
@@ -4682,7 +4682,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M863.743 566.642L799.584 469.532"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,88.04441316953952,28.346013466202656"
         >
@@ -4700,7 +4700,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M809.067 535.946L779.499 464.509"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,60.78701790088243,16.52732841259413"
         >
@@ -4718,7 +4718,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M814.089 570.548L770.014 451.674"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,86.86831958418418,39.9134873616166"
         >
@@ -4736,7 +4736,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M785.637 524.783L766.109 452.23"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,50.53739486160271,24.59769882736213"
         >
@@ -4754,7 +4754,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M771.129 523.11L760.529 451.674"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,54.917514515004605,17.30062513343289"
         >
@@ -4773,7 +4773,7 @@ export function FooterAnimation() {
         <g opacity="0.5">
           <path
             d="M711.992 537.064L734.308 457.813"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,52.88264219954043,29.45040375993223"
           >
@@ -4791,7 +4791,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M743.793 543.761L749.371 417.072"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,86.15678962290146,40.65493980825088"
           >
@@ -4809,7 +4809,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M684.654 530.925L729.845 439.396"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,70.3663144388914,31.711017104077353"
           >
@@ -4827,7 +4827,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M644.485 492.415L696.371 446.093"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,54.446347476701135,15.108561275740273"
           >
@@ -4845,7 +4845,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M647.833 467.301L712.55 420.979"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,54.70659363001804,24.87992370396633"
           >
@@ -4863,7 +4863,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M633.327 449.442L670.149 432.699"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,32.28206958568846,8.167702295415054"
           >
@@ -4881,7 +4881,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M607.663 420.421L694.697 404.236"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,66.87984810870373,21.646252049987677"
           >
@@ -4899,7 +4899,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M615.474 366.843L696.37 384.145"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,64.10198947424415,18.623588833861326"
           >
@@ -4917,7 +4917,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M576.42 300.987L682.423 357.913"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,89.66796522949572,30.653285686031623"
           >
@@ -4935,7 +4935,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M651.18 294.849L710.876 355.682"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,57.32184831626124,27.908811168602043"
           >
@@ -4953,7 +4953,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M662.337 236.807L719.244 338.381"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,85.52436442504599,30.90454487671182"
           >
@@ -4971,7 +4971,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M816.879 281.455L785.635 338.381"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,43.374273179769695,21.562318922281083"
           >
@@ -4989,7 +4989,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M882.712 283.129L811.857 345.635"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,75.31971594576682,19.165360958530066"
           >
@@ -5007,7 +5007,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M881.038 309.918L820.784 350.1"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,52.51034770944573,19.9129997636988"
           >
@@ -5025,7 +5025,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M869.321 342.846L814.089 365.727"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,41.66382754462886,18.120054596484422"
           >
@@ -5043,7 +5043,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M826.92 366.285L803.489 375.214"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,18.537263551115785,6.537367186188902"
           >
@@ -5061,7 +5061,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M901.122 366.285L810.184 383.028"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,71.16905370716904,21.297407474471576"
           >
@@ -5079,7 +5079,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M902.239 470.092L785.078 412.608"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,95.45953980457854,35.04377135264803"
           >
@@ -5097,7 +5097,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M862.069 514.181L788.424 434.931"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,86.17324468610242,22.01246240618273"
           >
@@ -5115,7 +5115,7 @@ export function FooterAnimation() {
           </path>
           <path
             d="M813.531 510.275L776.709 444.978"
-            className="stroke-zinc-950 dark:stroke-teal-200"
+            className="stroke-foreground dark:stroke-background"
             strokeWidth="1.92659"
             strokeDasharray="0,0,55.72100312931544,19.24271909968847"
           >
@@ -5134,7 +5134,7 @@ export function FooterAnimation() {
         </g>
         <path
           d="M757.738 286.476V297.079"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,6.957637663662317,3.6453591625095583"
         >
@@ -5152,7 +5152,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M809.624 252.989L798.466 283.127"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,22.994282548923724,9.142943555812604"
         >
@@ -5170,7 +5170,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M763.316 233.456L759.969 273.081"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,26.832456577285182,12.933645259873023"
         >
@@ -5188,7 +5188,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M770.049 230.409L763.628 283.016"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,35.015263801944485,17.98214601861216"
         >
@@ -5206,7 +5206,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M777.838 237.349L765.408 308.608"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,55.69986042116733,16.635123404516264"
         >
@@ -5224,7 +5224,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M796.483 224.486L769.131 330.956"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,87.74330821422133,22.183907361950546"
         >
@@ -5242,7 +5242,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M806.682 226.925L788.983 278.032"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,40.22594900975121,13.859004298354254"
         >
@@ -5260,7 +5260,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M822.16 207.791L796.378 278.417"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,52.44677375820658,22.737941512789508"
         >
@@ -5278,7 +5278,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M826.362 217.271L816.321 243.502"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,19.541136544802907,8.546004492184398"
         >
@@ -5296,7 +5296,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M752.719 282.569V295.405"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,8.637992841738711,4.19800569341754"
         >
@@ -5314,7 +5314,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M751.604 256.338V276.429"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,13.02204423575949,7.068928664631136"
         >
@@ -5332,7 +5332,7 @@ export function FooterAnimation() {
         </path>
         <path
           d="M789.541 222.853L782.846 256.339"
-          className="stroke-zinc-950 dark:stroke-teal-200"
+          className="stroke-foreground dark:stroke-background"
           strokeWidth="1.92659"
           strokeDasharray="0,0,23.20638233682046,10.942333636079931"
         >

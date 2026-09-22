@@ -33,9 +33,9 @@ export function ScrollToTop() {
       {isVisible && (
         <Button
           onClick={handleScrollToTop}
-          className="fixed bottom-4 right-4 z-10 flex h-12 w-12 items-center justify-center rounded-md bg-foreground p-0"
+          className="fixed bottom-4 right-4 z-10 flex h-12 w-12 items-center justify-center rounded-md bg-primary p-0"
         >
-          <ArrowUpIcon className="h-6 w-6 text-zinc-50 dark:text-zinc-950" />
+          <ArrowUpIcon className="h-6 w-6 text-primary-foreground" />
         </Button>
       )}
     </>

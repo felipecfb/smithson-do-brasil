@@ -39,15 +39,16 @@ export function PartnersItem({ data }: PartnersData) {
             <a
               href={partner.url}
               target="_blank"
-              className="flex w-full max-w-56 items-center justify-center"
+              className="relative flex w-full max-w-56 items-center justify-center overflow-hidden rounded-xl"
               rel="noreferrer"
             >
-              <figure>
+              <figure className="relative">
                 <img
                   src={partner.image}
                   alt={partner.title}
-                  className="max-w-full transition-all duration-300 ease-in-out group-hover:scale-105 group-hover:brightness-125"
+                  className="max-w-full transition-all duration-300 ease-in-out group-hover:scale-105"
                 />
+                <div className="absolute inset-0 bg-primary/20 opacity-0 transition-opacity duration-300 group-hover:opacity-100 rounded-xl" />
                 <figcaption className="hidden">{partner.title}</figcaption>
               </figure>
             </a>

@@ -1,4 +1,5 @@
 import { Helmet } from 'react-helmet-async'
+import { useTranslation } from 'react-i18next'
 
 import { AboutUs } from './components/about-us'
 import { Dna } from './components/dna'
@@ -9,31 +10,30 @@ import { Products } from './components/products'
 import { Services } from './components/services'
 
 export function Home() {
+  const { t } = useTranslation()
+
   return (
     <>
       <Helmet title="Home" />
 
-      <div className="space-y-8 bg-teal-200 text-foreground dark:bg-zinc-950 lg:space-y-16">
+      <div className="space-y-8 bg-background text-foreground lg:space-y-16">
         <Introduction.Root>
           <Introduction.Button
             href="/servicos"
-            title="Saiba o que fazemos"
-            className="border-[1px] border-zinc-950 bg-zinc-50 text-zinc-950 hover:bg-zinc-200"
+            title={t('introduction.learnMore')}
+            className="border-[1px] border-foreground bg-background text-foreground hover:bg-muted"
           />
           <Introduction.Button
             href="/servicos"
-            title="Fale com a gente"
-            className="bg-zinc-950 text-zinc-50 hover:bg-zinc-700 dark:bg-teal-200 dark:text-zinc-950"
+            title={t('introduction.contactUs')}
+            className="bg-primary text-primary-foreground hover:opacity-80"
           />
         </Introduction.Root>
         <AboutUs />
         <Numbers />
         <Dna />
         <Services />
-        <Products />
-
         <Partners />
-        {/* <Review /> */}
       </div>
     </>
   )

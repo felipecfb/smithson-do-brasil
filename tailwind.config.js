@@ -76,6 +76,7 @@ module.exports = {
         'accordion-up': 'accordion-up 0.2s ease-out',
       },
       fontFamily: {
+        sans: ['Inter', 'sans-serif'],
         ppformula: ['PP Formula', 'sans-serif'],
         medium: ['Visby CF Medium', 'sans-serif'],
         semibold: ['Visby CF DemiBold', 'sans-serif'],

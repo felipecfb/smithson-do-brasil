@@ -9,6 +9,187 @@
     "languages": {
       "en": "English",
       "pt": "Portuguese"
+    },
+    "introduction": {
+      "badge": "What's New",
+      "badgeText": "Check out our web development",
+      "headline": "IT Consulting & Technology",
+      "subheading": "Because if something isn't working the way it should, someone's in for a headache...",
+      "learnMore": "See what we do",
+      "contactUs": "Get in touch"
+    },
+    "aboutUs": {
+      "title": "Who are we?",
+      "para1": "The company you call when you have problems — or when you want to avoid them...",
+      "para2": "Need new computers?\nDoes your system need an update?\nDoes your website lack purpose?",
+      "para3": "Talk to us.",
+      "subheading": "We are experts at keeping things running the way they should."
+    },
+    "numbers": {
+      "title": "Our numbers",
+      "description": "Awarded by several institutions and a direct representative of companies like Microsoft and Intelbras, see our history in figures and understand why Smithson is the right choice to advise your organization.",
+      "years": "Years of Experience",
+      "clients": "Clients",
+      "solutions": "Solutions & Services"
+    },
+    "dna": {
+      "title": "Our essence",
+      "description": "The company you call when you have problems — or want to avoid them. At Smithson, we believe technology should be an ally that simplifies life and drives business, not the other way around.",
+      "items": [
+        {
+          "title": "Value Delivery for Businesses and People",
+          "description": "At Smithson, our focus is on delivering solutions that make a difference. We work to ensure our clients receive the very best!"
+        },
+        {
+          "title": "Business Growth and Functional Impact",
+          "description": "Our mission is to track trends and apply innovations that drive growth and improve operational functionality."
+        },
+        {
+          "title": "Technical Expertise and Operational Excellence",
+          "description": "Our team is made up of specialists who master their fields and are always ready to face any technological challenge!"
+        },
+        {
+          "title": "Lasting Partnership and Trust",
+          "description": "We value the long-term relationships we have built. The trust we establish is the result of consistent, high-quality work!"
+        }
+      ]
+    },
+    "services": {
+      "title": "Some of our services...",
+      "moreTitle": "There's more!",
+      "cta": "Get in touch",
+      "accordion": [
+        {
+          "title": "Technical Support",
+          "items": ["Device Repair", "Preventive Maintenance", "Remote Support"]
+        },
+        {
+          "title": "Hardware",
+          "items": [
+            "Computer assembly and configuration",
+            "Sale and installation of peripherals (printers, scanners, etc.)",
+            "Component upgrades (RAM, hard drive, graphics card)"
+          ]
+        },
+        {
+          "title": "Websites & Applications",
+          "items": ["Design and Development", "Custom Platforms", "SEO and Performance Optimization"]
+        },
+        {
+          "title": "Systems",
+          "items": [
+            "Implementation of enterprise management and CRM systems",
+            "Development and evolution of network systems",
+            "System integration for internal process automation"
+          ]
+        }
+      ],
+      "items": [
+        {
+          "title": "Monitoring Systems",
+          "description": "Service carried out by trained professionals with cutting-edge technology and security. Strategic installation to ensure site safety."
+        },
+        {
+          "title": "Website Development",
+          "description": "Qualified team ready to deliver quality projects, including institutional sites, e-commerce, blogs and landing pages."
+        },
+        {
+          "title": "Hardware Repair",
+          "description": "Specialists ready to repair personal and business computers. Fast and reliable solutions for optimal device performance."
+        },
+        {
+          "title": "Microsoft 365",
+          "description": "Microsoft 365 consulting and implementation solutions for your company, including Business Applications, Communication Platforms and Infrastructure."
+        },
+        {
+          "title": "Paid Traffic",
+          "description": "Maximize your company's online visibility with paid traffic. We direct the right audience to your website, increasing exposure and driving conversions."
+        },
+        {
+          "title": "Computer Sales",
+          "description": "Wide selection of quality computers, including business and personal models, to boost your company's productivity and security."
+        }
+      ]
+    },
+    "partners": {
+      "title": "Our partners",
+      "description": "Check with our partners along the way...",
+      "ariaLabel": "Companies that trust our work",
+      "aboutTitle": "Companies that trust our work"
+    },
+    "footer": {
+      "heroTitle": "Everything in one place!",
+      "heroSubtitle": "Who would have thought it was possible, right?",
+      "contactTitle": "Get in Touch",
+      "contactSubtitle": "Need technical support or would you like to discuss your next project?",
+      "contactSubtitle2": "We're here.",
+      "menuInstitutional": "Institutional",
+      "menuAboutUs": "About Smithson",
+      "menuCareers": "Careers",
+      "menuServices": "Services & Solutions",
+      "menuServicesItems": [
+        "Website design & development",
+        "Concierge & intercom",
+        "Electronic locks",
+        "Monitoring systems (CCTV)",
+        "Paid traffic",
+        "Microsoft 365"
+      ],
+      "menuContact": "Get in touch",
+      "privacy": "Privacy & Security Policy"
+    },
+    "form": {
+      "title": "One form away...",
+      "subtitle": "Your competitors got ahead while you waited — but not for much longer.",
+      "name": "Your name",
+      "email": "Your email",
+      "phone": "Your phone",
+      "message": "Your message",
+      "submit": "Send message",
+      "success": "Message sent successfully.",
+      "nameRequired": "Name is required.",
+      "emailInvalid": "Please enter a valid email.",
+      "phoneInvalid": "Please enter a valid phone number.",
+      "messageRequired": "Message is required."
+    },
+    "contact": {
+      "badge": "Get in touch",
+      "title": "Contact us",
+      "subtitle": "For over a decade, we have been committed to bridging the gap between people and technology.",
+      "infoTitle": "Don't wait to get in touch",
+      "testimonial": "Smithson changed the way we view technology within our operations. From the simplest to the most complex points, they manage to get the best out of it!",
+      "testimonialAuthor": "Marcelo Bastos",
+      "testimonialRole": "Director and Founder"
+    },
+    "servicesPage": {
+      "title": "Our services"
+    },
+    "aboutPage": {
+      "journeyTitle": "Our journey",
+      "partnersTitle": "Companies that trust our work",
+      "timeline": [
+        {
+          "year": 1994,
+          "title": "The Beginning",
+          "description": "Smithson do Brasil Informática LTDA. was founded."
+        },
+        {
+          "year": 1997,
+          "title": "Expansion and Consolidation",
+          "description": "The SMT Computer microcomputer line was created with the best peripherals available."
+        },
+        {
+          "year": 2002,
+          "title": "Brand Recognition",
+          "description": "We achieved the title of Microsoft OEM Integrator."
+        }
+      ],
+      "cards": [
+        { "number": "25", "title": "years of experience" },
+        { "number": "30", "title": "solutions" },
+        { "number": "35", "title": "projects" },
+        { "number": "15", "title": "client companies" }
+      ]
     }
   }
 }

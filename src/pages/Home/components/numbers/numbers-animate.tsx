@@ -13,7 +13,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,225.64054644463403,65.78804242255346"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -32,7 +32,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,191.84687808177927,99.58250424243948"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -51,7 +51,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,200.9891463522391,90.43925940947967"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -70,7 +70,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,224.9693243347537,66.45999695430879"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -89,7 +89,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,72.02636226616212,21.74364200629882"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -108,7 +108,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,67.56926226100158,26.200719123275768"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -127,7 +127,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,68.61422463715998,25.155871188035338"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -146,7 +146,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,203.9191831647442,87.5095277727558"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -165,7 +165,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,190.59767498043254,100.83179889652058"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -184,7 +184,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,212.26141658707272,79.16705020980228"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -203,7 +203,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,216.75470925385568,78.63084982817557"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -222,7 +222,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,196.5195273370615,94.90973291684473"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -241,7 +241,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,211.355642138924,80.07370966771661"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"
@@ -260,7 +260,7 @@ export function NumbersAnimate() {
         stroke="transparent"
         strokeWidth="4"
         strokeDasharray="0,0,71.45178325622902,22.318312568966288"
-        className="stroke-zinc-950 dark:stroke-teal-200"
+        className="stroke-foreground dark:stroke-background"
       >
         <animate
           attributeType="XML"

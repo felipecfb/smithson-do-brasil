@@ -11,15 +11,13 @@ i18n
   .use(initReactI18next)
   .init({
     resources: {
-      en: {
-        ...enTranslations,
-      },
-      pt: {
-        ...ptTranslations,
-      },
-      es: {
-        ...esTranslations,
-      },
+      en: { ...enTranslations },
+      pt: { ...ptTranslations },
+      es: { ...esTranslations },
     },
-    lng: 'pt-BR',
+    fallbackLng: 'pt',
+    detection: {
+      order: ['localStorage', 'navigator'],
+      caches: ['localStorage'],
+    },
   })

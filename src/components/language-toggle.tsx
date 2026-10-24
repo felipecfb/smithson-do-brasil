@@ -1,4 +1,4 @@
-import { BR, US } from 'country-flag-icons/react/3x2'
+import { BR, ES, US } from 'country-flag-icons/react/3x2'
 import { Languages } from 'lucide-react'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
@@ -16,16 +16,9 @@ export function LanguageToggle() {
 
   const [language, setLanguage] = useState(i18n.language)
 
-  function handleChangeLanguage(language: string) {
-    i18n.changeLanguage(language)
-
-    if (language === 'en') {
-      setLanguage('English')
-    }
-
-    if (language === 'pt') {
-      setLanguage('Português')
-    }
+  function handleChangeLanguage(lang: string) {
+    i18n.changeLanguage(lang)
+    setLanguage(lang)
   }
 
   return (
@@ -34,7 +27,7 @@ export function LanguageToggle() {
         <Button variant="ghost" size="default" className="space-x-2">
           <Languages className="h-[1.2rem] w-[1.2rem]" />
           <span className="sr-only">Change Language</span>
-          <span>{language}</span>
+          <span>{language.toUpperCase()}</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end">
@@ -45,6 +38,10 @@ export function LanguageToggle() {
         <DropdownMenuItem onClick={() => handleChangeLanguage('pt')}>
           <BR className="mr-2 h-[1.2rem] w-[1.2rem]" />
           {t('languages.pt')}
+        </DropdownMenuItem>
+        <DropdownMenuItem onClick={() => handleChangeLanguage('es')}>
+          <ES className="mr-2 h-[1.2rem] w-[1.2rem]" />
+          {t('languages.es')}
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenu>

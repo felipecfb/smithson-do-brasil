@@ -8,7 +8,200 @@
     },
     "languages": {
       "en": "English",
-      "pt": "Portuguese"
+      "pt": "Portuguese",
+      "es": "Spanish"
+    },
+    "home": {
+      "introduction": {
+        "badge": "What's New",
+        "badgeLink": "Check out our website development",
+        "title": "IT & Technology Consulting",
+        "subtitle": "Because if something isn't working the way it should, someone is going to have a serious headache...",
+        "ctaPrimary": "Get in touch",
+        "ctaSecondary": "Our services"
+      },
+      "aboutUs": {
+        "title": "Who are we?",
+        "p1": "The company you call when you have problems — or when you want to avoid them...",
+        "p2line1": "Need new computers?",
+        "p2line2": "Does your system need an update?",
+        "p2line3": "Does your website lack purpose?",
+        "cta": "Talk to us.",
+        "tagline": "We are experts at keeping things running the way they should."
+      },
+      "dna": {
+        "title": "Our essence",
+        "subtitle": "The company you call when you have problems — or when you want to avoid them... At Smithson, we believe technology should be an ally that simplifies life and drives business, not the other way around.",
+        "item1Title": "Value Delivery for Businesses and People",
+        "item1Desc": "At Smithson, our focus is delivering solutions that make a difference. We work to ensure our clients receive the best!",
+        "item2Title": "Business Evolution and Functional Impact",
+        "item2Desc": "Our mission is to follow trends and apply innovations that drive growth and improve operational functionality.",
+        "item3Title": "Technical Expertise and Operational Excellence",
+        "item3Desc": "Our team is made up of specialists who master their areas and are always ready to tackle any technological challenge!",
+        "item4Title": "Partnership and Lasting Trust",
+        "item4Desc": "We value our long-term relationships. The trust we build is the result of consistent, quality-driven work!"
+      },
+      "numbers": {
+        "title": "Our numbers",
+        "subtitle": "Awarded by several institutions such as X and Y and a direct representative of companies like Microsoft and Intelbras, see our history in figures and understand why Smithson is the right choice to advise your organization.",
+        "years": "Years of Experience",
+        "clients": "Clients",
+        "solutions": "Solutions & Services"
+      },
+      "services": {
+        "title": "Some of our services...",
+        "accordion1Title": "Technical Support",
+        "accordion1Item1": "Device Repair",
+        "accordion1Item2": "Preventive Maintenance",
+        "accordion1Item3": "Remote Support",
+        "accordion2Title": "Hardware",
+        "accordion2Item1": "Computer assembly and configuration",
+        "accordion2Item2": "Sale and installation of peripherals (printers, scanners, etc.)",
+        "accordion2Item3": "Component upgrades (RAM, hard drive, graphics card)",
+        "accordion3Title": "Websites & Applications",
+        "accordion3Item1": "Design and Development",
+        "accordion3Item2": "Custom Platforms:",
+        "accordion3Item3": "SEO and Performance Optimization",
+        "accordion4Title": "Systems",
+        "accordion4Item1": "Implementation of enterprise management and customer relationship management systems",
+        "accordion4Item2": "Development and evolution of network systems",
+        "accordion4Item3": "Systems integration for internal process automation",
+        "moreTitle": "There's more!",
+        "service1Title": "Monitoring Systems",
+        "service1Desc": "Service performed by trained professionals with cutting-edge technology and security. Strategic installation to ensure the safety of the premises.",
+        "service2Title": "Website Development",
+        "service2Desc": "Qualified team ready to deliver quality projects, including institutional websites, e-commerce, blogs and landing pages.",
+        "service3Title": "Hardware Repair",
+        "service3Desc": "Specialists ready to repair personal and business computers. Fast and reliable solutions for optimal device performance.",
+        "service4Title": "Microsoft 365",
+        "service4Desc": "Microsoft 365 consulting and implementation solutions for your company, including Business Applications, Communication Platforms and Infrastructure.",
+        "service5Title": "Paid Traffic",
+        "service5Desc": "Maximize your company's online visibility with paid traffic. We direct the right audience to your website, increasing exposure and boosting conversions.",
+        "service6Title": "Computer Sales",
+        "service6Desc": "Wide selection of quality computers, including business and personal models, to boost your business productivity and security.",
+        "cta": "Get in touch"
+      },
+      "products": {
+        "title": "Our products",
+        "subtitle": "Beyond services, we also build our own digital solutions.",
+        "badge": "In development",
+        "conectaDesc": "Demand management system for political offices. Helps politicians and advisors register, track and resolve citizen requests all in one place.",
+        "casinhaDesc": "Collaborative household management app. Housemates organize items, shopping lists and household members together."
+      },
+      "review": {
+        "title": "Hear it from those already with us",
+        "reviewText": "Before Smithson do Brasil's IT consulting, we faced operational and data security challenges. Now, with their services, our company operates with efficiency and high-level security, allowing us to focus on business growth."
+      },
+      "partners": {
+        "title": "Our partners",
+        "subtitle": "Hear it from our partners along the way..."
+      }
+    },
+    "servicesPage": {
+      "title": "Our services",
+      "service1Title": "Website Development",
+      "service1Desc": "Qualified team ready to deliver quality projects, including institutional websites, e-commerce, blogs and landing pages.",
+      "service2Title": "CCTV",
+      "service2Desc": "Service performed by trained professionals with cutting-edge technology and security. Strategic installation to ensure the safety of the premises.",
+      "service3Title": "Hardware Repair",
+      "service3Desc": "Specialists ready to repair personal and business computers. Fast and reliable solutions for optimal device performance.",
+      "service4Title": "Microsoft 365",
+      "service4Desc": "Microsoft 365 consulting and implementation solutions for your company, including Business Applications, Communication Platforms and Infrastructure.",
+      "service5Title": "Paid Traffic",
+      "service5Desc": "Maximize your company's online visibility with paid traffic. We direct the right audience to your website, increasing exposure and boosting conversions.",
+      "service6Title": "Computer Sales",
+      "service6Desc": "Wide selection of quality computers, including business and personal models, to boost your business productivity and security."
+    },
+    "aboutPage": {
+      "journeyTitle": "Our journey",
+      "timeline1Title": "The Beginning",
+      "timeline1Desc": "Smithson do Brasil Informática LTDA was founded.",
+      "timeline2Title": "Expansion and Consolidation",
+      "timeline2Desc": "The SMT Computer microcomputer line was created with the best in peripherals.",
+      "timeline3Title": "Brand Recognition",
+      "timeline3Desc": "We achieved the title of Microsoft OEM Integrator.",
+      "cards": {
+        "years": "years of experience",
+        "solutions": "solutions",
+        "projects": "projects",
+        "clients": "client companies"
+      },
+      "partnersTitle": "Companies that trust our work"
+    },
+    "contactPage": {
+      "badge": "Get in touch",
+      "title": "Contact us",
+      "subtitle": "For over a decade, we have been committed to being a bridge between people and technology.",
+      "sideTitle": "Don't wait to reach out",
+      "testimonial": "Smithson changed the way we see technology within our operations. From the simplest to the most complex points, they manage to get the best out of it!",
+      "testimonialName": "Marcelo Bastos",
+      "testimonialRole": "Director and Founder"
+    },
+    "form": {
+      "title": "Just one form away...",
+      "subtitle": "Your competitors got ahead while you waited — but not for much longer.",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "telPlaceholder": "WhatsApp or phone",
+      "messagePlaceholder": "How can we help you? Don't hold back on the details!",
+      "submit": "Get in touch",
+      "footer": "Fill out the form so we can get in touch. We are ready to help!",
+      "successMessage": "Message sent successfully.",
+      "nameRequired": "Name is required.",
+      "emailInvalid": "Please enter a valid email.",
+      "telInvalid": "Please enter a valid phone number.",
+      "messageRequired": "Message is required."
+    },
+    "footer": {
+      "tagline": "Everything in one place!",
+      "taglineSubtitle": "Who would have thought it was possible, right?",
+      "contactTitle": "Get in Touch",
+      "contactSubtitle": "Need technical support or would you like to discuss your next project?",
+      "contactHere": "We're here.",
+      "institutionalTitle": "Institutional",
+      "smithson": "Smithson",
+      "careers": "Careers",
+      "servicesTitle": "Services & solutions",
+      "serviceWebDev": "Website design and development",
+      "servicePortaria": "Concierge and intercom",
+      "serviceTravas": "Electronic locks",
+      "serviceCFTV": "Monitoring systems (CCTV)",
+      "servicePaidTraffic": "Paid traffic",
+      "serviceMicrosoft": "Microsoft 365",
+      "contactMenuTitle": "Get in touch",
+      "privacyPolicy": "Privacy and Security Policies"
+    },
+    "policies": {
+      "title": "Privacy and Security Policy",
+      "tab1": "Spam and Personal Data",
+      "tab2": "Anonymous Data and Cookies",
+      "tab3": "External Links",
+      "tab4": "Information Security Policy",
+      "tab1Content": "Within our privacy policy, we do not send spam. Nor do we request the sending of personal data by email. If you receive any message requesting personal information, please send an email to dpo@smithson.com.br.",
+      "tab2Content": "In order to improve the quality of navigation and site features, Smithson collects statistical and analytical information, generally related to technical aspects or browsing on the site. Data may be collected and stored through cookies — text files containing identification information stored on your computer — server-side scripts (PHP, ASP, etc.) and client-side (javascript) tools, whether proprietary or third-party. Although cookies are not harmful to your equipment, users are free to refuse their use by accessing their browser settings, as well as preventing the execution of javascript.",
+      "tab3Content": "Although the company uses external links it believes to be of interest to users of smithson.com.br, the company is not responsible for information collected on external sites that have a link on the Smithson website.",
+      "tab4Intro": "Smithson do Brasil adopts the following information security policy to ensure that all Information Security objectives are met, namely:",
+      "tab4Item1": "Establish guidelines and standards that allow employees and service providers to follow desirable and acceptable behavior standards, in accordance with legality and global best practices, in order to mitigate technical and legal risks;",
+      "tab4Item2": "Guide the definition of specific Information Security procedures and the implementation of controls and processes to meet their requirements;",
+      "tab4Item3": "Ensure confidentiality, integrity, availability and guidance for the information processing flow throughout its lifecycle, within applicable legal standards;",
+      "tab4Item4": "Prevent possible incidents and legal liability for the institution and its employees and service providers;",
+      "tab4Item5": "Ensure the normality and continuity of Smithson's activities, protecting critical processes against significant failures or disasters;",
+      "tab4Item6": "Meet legal, regulatory and contractual requirements relevant to Smithson's activity;",
+      "tab4Item7": "Minimize the risks of damage, financial loss, market share, client and partner trust, or any other negative impact on Smithson's activities resulting from a security breach;",
+      "tab4Item8": "Ensure continuous and up-to-date training on Information Security policies and procedures, emphasizing people's obligations regarding their respective security;",
+      "tab4Item9": "Ensure that all Information Security responsibilities are clearly defined and preserved."
+    },
+    "maintenance": {
+      "title": "Site Under Construction",
+      "p1": "We are working hard to bring you an amazing new experience!",
+      "p2": "Our website is undergoing a complete overhaul and will soon be available with many new features and improvements.",
+      "p3": "Stay tuned and don't miss the updates!",
+      "p4": "In the meantime, feel free to contact us through our social media or by email:",
+      "p5": "Thank you for your patience and understanding!"
+    },
+    "notFound": {
+      "title": "Page not found",
+      "back": "Go back"
     }
   }
 }

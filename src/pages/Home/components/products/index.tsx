@@ -1,6 +1,10 @@
+import { useTranslation } from 'react-i18next'
+
 import { ProductsItem } from './products-item'
 
 export function Products() {
+  const { t } = useTranslation()
+
   return (
     <section
       role="region"
@@ -10,10 +14,10 @@ export function Products() {
     >
       <div className="space-y-5 text-center">
         <h2 className="font-bold font-ppformula text-4xl italic lg:text-6xl">
-          Nossos produtos
+          {t('home.products.title')}
         </h2>
         <p className="w-full font-medium text-base lg:text-xl">
-          Além de serviços, também criamos nossas próprias soluções digitais.
+          {t('home.products.subtitle')}
         </p>
       </div>
 
@@ -21,13 +25,13 @@ export function Products() {
         <ProductsItem
           icon="Users"
           title="Conecta"
-          description="Sistema de gestão de demandas para gabinetes políticos. Ajuda políticos e assessores a registrar, acompanhar e resolver as solicitações da população em um só lugar."
+          description={t('home.products.conectaDesc')}
           url="https://conecta.smithson.com.br"
         />
         <ProductsItem
           icon="Home"
           title="Casinha"
-          description="Aplicativo de gerenciamento doméstico colaborativo. Os moradores da casa organizam juntos itens, listas de compras e membros da casa."
+          description={t('home.products.casinhaDesc')}
           url="https://casinha.smithson.com.br"
         />
       </div>

@@ -1,14 +1,17 @@
 import { Mail, MapPin, Phone } from 'lucide-react'
 import { Helmet } from 'react-helmet-async'
+import { useTranslation } from 'react-i18next'
 
 import { Form } from '@/components/form'
 import { Badge } from '@/components/ui/badge'
 import { Separator } from '@/components/ui/separator'
 
 export function Contact() {
+  const { t } = useTranslation()
+
   return (
     <>
-      <Helmet title="Contato" />
+      <Helmet title={t('contactPage.title')} />
       <div className="relative">
         <img
           src="/hero-contact.png"
@@ -18,14 +21,13 @@ export function Contact() {
 
         <div className="absolute left-6 top-2/4 -translate-y-2/4 transform space-y-4 md:left-10 lg:left-20">
           <Badge className="bg-[#2364AA] font-medium text-sm text-zinc-50 hover:bg-[#2364AA] hover:brightness-90 lg:text-base">
-            Fale conosco
+            {t('contactPage.badge')}
           </Badge>
           <h1 className="text-xl font-bold md:text-3xl lg:text-6xl">
-            Entre em contato
+            {t('contactPage.title')}
           </h1>
           <p className="font-medium text-sm md:text-base lg:text-lg">
-            Há mais de uma década, estamos comprometidos em <br />
-            ser uma ponte entre as pessoas e a tecnologia.
+            {t('contactPage.subtitle')}
           </p>
         </div>
       </div>
@@ -34,7 +36,7 @@ export function Contact() {
 
         <div className="space-y-6 rounded-lg bg-[#2364AA] p-8 lg:space-y-10 lg:p-16">
           <h3 className="text-2xl font-bold text-zinc-50">
-            Não espere para entrar em contato
+            {t('contactPage.sideTitle')}
           </h3>
 
           <div className="space-y-2 text-sm">
@@ -70,15 +72,13 @@ export function Contact() {
 
           <div className="space-y-4 rounded-sm bg-zinc-50 p-6 text-zinc-950">
             <p className="font-medium text-base">
-              A smithson mudou a forma como enxergamos a tecnologia dentro de
-              nossas operações. Dos pontos mais simples aos mais complexos, ela
-              consegue extrair o melhor!
+              {t('contactPage.testimonial')}
             </p>
 
             <p className="font-medium text-sm">
-              <strong>Marcelo Bastos</strong>
+              <strong>{t('contactPage.testimonialName')}</strong>
               <br />
-              Diretor e Fundador
+              {t('contactPage.testimonialRole')}
             </p>
           </div>
         </div>

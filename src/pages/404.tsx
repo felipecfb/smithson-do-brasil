@@ -1,12 +1,15 @@
+import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 
 export function NotFound() {
+  const { t } = useTranslation()
+
   return (
     <div className="flex h-screen flex-col items-center justify-center gap-2">
-      <h1 className="text-4xl font-bold">Página não encontrada</h1>
+      <h1 className="text-4xl font-bold">{t('notFound.title')}</h1>
       <p className="text-accent-foreground">
         <Link to="/" className="text-sky-600 dark:text-sky-400">
-          Voltar
+          {t('notFound.back')}
         </Link>
       </p>
     </div>

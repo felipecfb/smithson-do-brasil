@@ -1,11 +1,15 @@
+import { useTranslation } from 'react-i18next'
+
 import { CardItem, CardItemProps } from './card-item'
 
 export function Cards() {
+  const { t } = useTranslation()
+
   const cards: CardItemProps[] = [
-    { number: '25', title: 'anos de experiência' },
-    { number: '30', title: 'soluções' },
-    { number: '35', title: 'projetos' },
-    { number: '15', title: 'empresas clientes' },
+    { number: '25', title: t('aboutPage.cards.years') },
+    { number: '30', title: t('aboutPage.cards.solutions') },
+    { number: '35', title: t('aboutPage.cards.projects') },
+    { number: '15', title: t('aboutPage.cards.clients') },
   ]
 
   return (

@@ -1,14 +1,17 @@
 import Autoplay from 'embla-carousel-autoplay'
+import { useTranslation } from 'react-i18next'
 
 import { Carousel, CarouselContent } from '@/components/ui/carousel'
 
 import { ReviewItem } from './review-item'
 
 export function Review() {
+  const { t } = useTranslation()
+
   return (
     <section className="space-y-9 bg-[#2364AA] py-16">
       <h2 className="text-center text-3xl font-bold text-zinc-50 lg:text-5xl">
-        Confirme com quem já está conosco
+        {t('home.review.title')}
       </h2>
 
       <Carousel
@@ -24,36 +27,15 @@ export function Review() {
         className="mx-auto w-[90%] lg:w-full"
       >
         <CarouselContent className="md:-mx-6">
-          <ReviewItem
-            review="Antes da consultoria em TI da Smithson do Brasil, enfrentávamos desafios operacionais e de segurança de dados. Agora, com seus serviços, nossa empresa opera com eficiência e segurança de alto nível, permitindo-nos focar no crescimento do negócio."
-            name="Disraeli Sampaio"
-            role="CEO"
-            image="/empresas-parceiras/sampaio-metalis-color.png"
-          />
-          <ReviewItem
-            review="Antes da consultoria em TI da Smithson do Brasil, enfrentávamos desafios operacionais e de segurança de dados. Agora, com seus serviços, nossa empresa opera com eficiência e segurança de alto nível, permitindo-nos focar no crescimento do negócio."
-            name="Disraeli Sampaio"
-            role="CEO"
-            image="/empresas-parceiras/sampaio-metalis-color.png"
-          />
-          <ReviewItem
-            review="Antes da consultoria em TI da Smithson do Brasil, enfrentávamos desafios operacionais e de segurança de dados. Agora, com seus serviços, nossa empresa opera com eficiência e segurança de alto nível, permitindo-nos focar no crescimento do negócio."
-            name="Disraeli Sampaio"
-            role="CEO"
-            image="/empresas-parceiras/sampaio-metalis-color.png"
-          />
-          <ReviewItem
-            review="Antes da consultoria em TI da Smithson do Brasil, enfrentávamos desafios operacionais e de segurança de dados. Agora, com seus serviços, nossa empresa opera com eficiência e segurança de alto nível, permitindo-nos focar no crescimento do negócio."
-            name="Disraeli Sampaio"
-            role="CEO"
-            image="/empresas-parceiras/sampaio-metalis-color.png"
-          />
-          <ReviewItem
-            review="Antes da consultoria em TI da Smithson do Brasil, enfrentávamos desafios operacionais e de segurança de dados. Agora, com seus serviços, nossa empresa opera com eficiência e segurança de alto nível, permitindo-nos focar no crescimento do negócio."
-            name="Disraeli Sampaio"
-            role="CEO"
-            image="/empresas-parceiras/sampaio-metalis-color.png"
-          />
+          {[...Array(5)].map((_, i) => (
+            <ReviewItem
+              key={i}
+              review={t('home.review.reviewText')}
+              name="Disraeli Sampaio"
+              role="CEO"
+              image="/empresas-parceiras/sampaio-metalis-color.png"
+            />
+          ))}
         </CarouselContent>
       </Carousel>
     </section>

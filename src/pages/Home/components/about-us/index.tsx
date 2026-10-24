@@ -1,6 +1,10 @@
+import { useTranslation } from 'react-i18next'
+
 import { AboutUsHeroImage } from './about-us-hero-image'
 
 export function AboutUs() {
+  const { t } = useTranslation()
+
   return (
     <div className="relative">
       <section className="container flex flex-col items-end gap-4 text-center lg:flex-row lg:gap-12 lg:text-end">
@@ -8,24 +12,21 @@ export function AboutUs() {
 
         <div className="flex w-full flex-col items-center gap-4 lg:items-end lg:gap-12">
           <h2 className="font-bold font-ppformula text-4xl italic lg:text-6xl">
-            Quem somos nós?
+            {t('home.aboutUs.title')}
           </h2>
           <p className="flex flex-col items-center gap-4 font-medium text-base lg:items-end lg:text-xl">
+            <span>{t('home.aboutUs.p1')}</span>
             <span>
-              A empresa que você chama quando está com problemas <br />
-              ou quando quer evitar eles...
-            </span>
-            <span>
-              Precisando de computadores novos?
+              {t('home.aboutUs.p2line1')}
               <br />
-              Seu sistema precisa de um update?
+              {t('home.aboutUs.p2line2')}
               <br />
-              Seu site não tem propósito?
+              {t('home.aboutUs.p2line3')}
             </span>
-            <span>Fale conosco.</span>
+            <span>{t('home.aboutUs.cta')}</span>
           </p>
           <h3 className="font-bold font-ppformula text-2xl italic lg:text-4xl">
-            Somos experts em manter as coisas <br /> funcionando como deveriam.
+            {t('home.aboutUs.tagline')}
           </h3>
         </div>
       </section>

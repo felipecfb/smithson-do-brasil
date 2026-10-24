@@ -1,5 +1,6 @@
 import { SiInstagram, SiLinkedin } from '@icons-pack/react-simple-icons'
 import { Mail, Phone } from 'lucide-react'
+import { useTranslation } from 'react-i18next'
 import { Link } from 'react-router-dom'
 
 import { Form } from '../form'
@@ -9,16 +10,18 @@ import { FooterIcon } from './footer-icon'
 import { FooterMenu } from './footer-menu'
 
 export function Footer() {
+  const { t } = useTranslation()
+
   return (
     <footer className="bg-teal-200 pt-16 dark:bg-zinc-950" id="contact">
       <section className="container relative flex flex-col-reverse overflow-hidden text-foreground lg:flex-row lg:items-end lg:justify-between lg:rounded-lg lg:bg-muted lg:px-0">
         <div className="w-full bg-muted px-4 py-8 text-center lg:w-2/4 lg:space-y-3 lg:bg-transparent lg:px-8 lg:py-12 lg:text-start">
           <FooterIcon />
           <h2 className="font-bold text-2xl lg:text-4xl">
-            Tudo em um só lugar!
+            {t('footer.tagline')}
           </h2>
           <p className="text-base lg:text-xl">
-            Quem diria que era possível, não?
+            {t('footer.taglineSubtitle')}
           </p>
         </div>
 
@@ -28,14 +31,13 @@ export function Footer() {
       <section className="relative flex flex-col items-center justify-between gap-4 overflow-hidden bg-teal-200 px-8 py-8 text-zinc-950 dark:bg-zinc-950 lg:flex-row lg:gap-0 lg:px-20 lg:py-24">
         <div className="w-full space-y-2 text-center lg:w-2/4 lg:space-y-5 lg:text-start">
           <h3 className="font-bold font-ppformula text-4xl text-foreground lg:text-6xl">
-            Fale Conosco
+            {t('footer.contactTitle')}
           </h3>
           <p className="font-medium text-base text-foreground md:text-xl lg:max-w-80">
-            Precisando de suporte técnico ou gostaria de discutir seu próximo
-            projeto?
+            {t('footer.contactSubtitle')}
           </p>
           <p className="font-medium text-base text-foreground lg:text-xl">
-            Estamos aqui.
+            {t('footer.contactHere')}
           </p>
         </div>
 
@@ -66,40 +68,28 @@ export function Footer() {
               >
                 <SiInstagram size={20} />
               </a>
-              {/* <a
-                href="https://facebook.com"
-                target="_blank"
-                rel="noreferrer"
-                className="text-foreground transition-all hover:brightness-90"
-              >
-                <SiFacebook size={20} />
-              </a> */}
             </div>
           </div>
 
-          <FooterMenu title="Institucional">
+          <FooterMenu title={t('footer.institutionalTitle')}>
             <Nav.Root className="flex flex-col items-start gap-1">
-              <Nav.Link to="/quem-somos">A Smithson</Nav.Link>
-              <Nav.Link to="/contato">Carreiras</Nav.Link>
+              <Nav.Link to="/quem-somos">{t('footer.smithson')}</Nav.Link>
+              <Nav.Link to="/contato">{t('footer.careers')}</Nav.Link>
             </Nav.Root>
           </FooterMenu>
 
-          <FooterMenu title="Serviços e soluções">
+          <FooterMenu title={t('footer.servicesTitle')}>
             <Nav.Root className="flex flex-col items-start gap-1">
-              <Nav.Link to="/servicos">
-                Desenvolvimento e criação de sites
-              </Nav.Link>
-              <Nav.Link to="/servicos">Portaria e interfonia</Nav.Link>
-              <Nav.Link to="/servicos">Travas eletrônicas</Nav.Link>
-              <Nav.Link to="/servicos">
-                Sistemas de monitoramento (CFTV)
-              </Nav.Link>
-              <Nav.Link to="/servicos">Tráfego pago</Nav.Link>
-              <Nav.Link to="/servicos">Microsoft 365</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.serviceWebDev')}</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.servicePortaria')}</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.serviceTravas')}</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.serviceCFTV')}</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.servicePaidTraffic')}</Nav.Link>
+              <Nav.Link to="/servicos">{t('footer.serviceMicrosoft')}</Nav.Link>
             </Nav.Root>
           </FooterMenu>
 
-          <FooterMenu title="Fale conosco">
+          <FooterMenu title={t('footer.contactMenuTitle')}>
             <Nav.Root className="flex flex-col items-start gap-1">
               <Nav.Link to="tel:+5521970452371">
                 <Phone size={16} />
@@ -126,7 +116,7 @@ export function Footer() {
             to="/politicas-de-privacidade-e-seguranca"
             className="underline"
           >
-            Politicas de Privacidade e Segurança
+            {t('footer.privacyPolicy')}
           </Link>
         </div>
       </section>

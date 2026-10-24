@@ -1,4 +1,5 @@
 import { icons } from 'lucide-react'
+import { useTranslation } from 'react-i18next'
 
 import { Badge } from '@/components/ui/badge'
 import { Card, CardContent, CardHeader } from '@/components/ui/card'
@@ -16,6 +17,7 @@ export function ProductsItem({
   description,
   url,
 }: ProductsItemProps) {
+  const { t } = useTranslation()
   const LucideIcon = icons[icon]
 
   return (
@@ -32,7 +34,7 @@ export function ProductsItem({
         <CardContent className="space-y-4">
           <div className="flex items-center justify-center gap-2">
             <h3 className="text-3xl font-bold">{title}</h3>
-            <Badge variant="secondary">Em desenvolvimento</Badge>
+            <Badge variant="secondary">{t('home.products.badge')}</Badge>
           </div>
           <p className="text-xl text-muted-foreground">{description}</p>
         </CardContent>
